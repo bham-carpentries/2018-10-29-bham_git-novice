@@ -22,4 +22,4 @@ The live coding will cover:
     - git pull
     - finish git merge
 
-[Slides](https://github.com/bham-carpentries/git-novice/blob/gh-pages/_slides/SWCCollaborating.pdf)
+[Slides](https://github.com/bham-carpentries/2018-10-29-bham_git-novice/blob/gh-pages/_slides/SWCCollaborating.pdf)
