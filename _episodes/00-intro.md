@@ -19,4 +19,4 @@ The live coding demonstration will cover:
     + ls -larth
     + ls .git
     
-[Slides](https://github.com/bham-carpentries/git-novice/blob/gh-pages/_slides/SWCGitIntro.pdf)
+[Slides](https://github.com/bham-carpentries/2018-10-29-bham_git-novice/blob/gh-pages/_slides/SWCGitIntro.pdf)
