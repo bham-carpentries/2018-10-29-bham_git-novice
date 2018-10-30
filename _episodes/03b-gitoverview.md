@@ -27,4 +27,4 @@ Live coding will cover:
      - git status
 
      
-[Slides](https://github.com/bham-carpentries/git-novice/blob/gh-pages/_slides/SWCDemystifyingGit.pdf)
+[Slides](https://github.com/bham-carpentries/2018-10-29-bham_git-novice/blob/gh-pages/_slides/SWCDemystifyingGit.pdf)
