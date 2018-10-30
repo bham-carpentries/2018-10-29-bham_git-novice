@@ -1,5 +1,5 @@
 ---
-title: Conflicts
+title: "Supplemental Conflicts"
 teaching: 15
 exercises: 0
 questions:
