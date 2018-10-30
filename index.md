@@ -3,7 +3,7 @@ layout: lesson
 root: .
 ---
 
- This is the version taught at the [Programming with R, including The Unix Shell, and Version Control with Git](https://bham-carpentries.github.io/2018-10-29-bham/) workshop on Monday 29th and Tuesday 30th October
+This is the version taught at the [Programming with R, including The Unix Shell, and Version Control with Git](https://bham-carpentries.github.io/2018-10-29-bham/) workshop on Monday 29th and Tuesday 30th October
 
 Wolfman and Dracula have been hired by Universal Missions (a space
 services spinoff from Euphoric State University) to investigate if it
